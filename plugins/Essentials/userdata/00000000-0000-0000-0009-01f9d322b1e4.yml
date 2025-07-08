@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 65.24.147.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751945090982
+  login: 1751942644630
+money: '0'
+last-account-name: -FungusUck
+lastlocation:
+  world: a78e351e-adbe-41d3-ae38-ea63fcc97838
+  world-name: world
+  x: 817.45154
+  y: 323.1441
+  z: 817.97266
+  yaw: -137.56536865234375
+  pitch: 9.873275756835938
+logoutlocation:
+  world: a78e351e-adbe-41d3-ae38-ea63fcc97838
+  world-name: world
+  x: 108.716095
+  y: 105.7749
+  z: 110.23699
+  yaw: 128.51641845703125
+  pitch: 16.806106567382812
+past-usernames:
+- .FungusUck

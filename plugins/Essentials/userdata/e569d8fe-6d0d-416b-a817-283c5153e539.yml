@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.105.38.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751966309102
+  login: 1751966264503
+money: '0'
+last-account-name: NickOXE
+lastlocation:
+  world: a78e351e-adbe-41d3-ae38-ea63fcc97838
+  world-name: world
+  x: -1970.7298292135283
+  y: -19.799999952316284
+  z: -171.99450003247682
+  yaw: -23.96502685546875
+  pitch: 12.749966621398926
+logoutlocation:
+  world: a78e351e-adbe-41d3-ae38-ea63fcc97838
+  world-name: world
+  x: -87.66032461985294
+  y: -0.635562866468897
+  z: 63.32352703235043
+  yaw: -120.4212646484375
+  pitch: 22.64986228942871

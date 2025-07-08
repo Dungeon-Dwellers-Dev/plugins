@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.59.78.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751942614529
+  login: 1751942017844
+money: '0'
+last-account-name: I_Love_Duping69
+lastlocation:
+  world: a78e351e-adbe-41d3-ae38-ea63fcc97838
+  world-name: world
+  x: 92.6896901493754
+  y: 100.0
+  z: 108.71114834753779
+  yaw: -146.426513671875
+  pitch: 18.82141876220703
+logoutlocation:
+  world: a78e351e-adbe-41d3-ae38-ea63fcc97838
+  world-name: world
+  x: 836.9651603613183
+  y: 296.27227114771125
+  z: 755.3570693855366
+  yaw: 81.775390625
+  pitch: 5.20458984375
